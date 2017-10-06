@@ -11,7 +11,7 @@ Libraries and Tools Used:
 Run this chatbot.py in python console
 
 Next to see results type
-> Classify("Bye")
-[('goodbye', 0.6266681)]
-> response("Bye")
-See you later, thanks for visiting
+Classify("Bye")
+[('goodbye', 0.6266681)] - result
+response("Bye")
+See you later, thanks for visiting - result
