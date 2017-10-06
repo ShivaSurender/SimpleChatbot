@@ -8,10 +8,10 @@ Libraries and Tools Used:
 4.tflearn  
 5.json  -  To import JSON file  
 
-Run this chatbot.py in python console
+Run this chatbot.py in python console  
 
-Next to see results type
-Classify("Bye")
-[('goodbye', 0.6266681)] - result
-response("Bye")
-See you later, thanks for visiting - result
+Next to see results type  
+Classify("Bye")  
+[('goodbye', 0.6266681)] - result  
+response("Bye")  
+See you later, thanks for visiting - result  
